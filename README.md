@@ -13,5 +13,7 @@
 I’m a smart contract security researcher specializing in EVM chains.
 
 - 💼 Available for freelance audits & code reviews
-- 📬 Reach out: [your email or telegram or twitter]
+- 📬 Reach out:
+- Mail: memianabdulbasit@gmail.com
+- X : BasitAlphaA              
 
