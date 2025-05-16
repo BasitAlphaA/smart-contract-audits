@@ -1,6 +1,9 @@
-# Smart Contract Audit Reports – BasitAplhaA
+# 🔐 Smart Contract Audit Reports – BasitAlphaA
 
-🛡️ Independent audits and vulnerability research by BasitAplhaA.
+Welcome to my public repository for smart contract audits and security research.  
+Each audit here reflects deep-dive manual analysis, findings, and recommendations based on real-world codebases.
+
+---
 
 ## 📁 Audits
 
@@ -8,12 +11,22 @@
 
 ---
 
-## 🔎 About Me
+## 👨‍💻 About Me
 
-I’m a smart contract security researcher specializing in EVM chains.
+I’m a smart contract security researcher focused on EVM-based chains (Ethereum, Polygon, etc).  
+I specialize in:
 
-- 💼 Available for freelance audits & code reviews
-- 📬 Reach out:
-- Mail: memianabdulbasit@gmail.com
-- X : BasitAlphaA              
+- Manual smart contract auditing
+- Vulnerability research
+- Gas optimization & secure design patterns
+
+📫 Contact:
+- Twitter: [@BasitAlphaA](https://x.com/BasitAlphaA)
+- Email: memianabdulbasit@gmail.com
+
+---
+
+## 📌 More Coming Soon...
+
+This repo will be updated regularly with new audits and research.
 
